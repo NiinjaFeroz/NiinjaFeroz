@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NiinjaFeroz, welcome to my profile =)
+- 👀 I’m interested in Self-Taught Computer Science.
+- 🌱 I’m currently learning JavaScript, DevOps.
+- 💞️ I’m looking to collaborate on opensource projects.
+- 📫 How to reach me lucashenriqkist@gmail.com
